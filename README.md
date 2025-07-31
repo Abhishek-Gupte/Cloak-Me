@@ -12,13 +12,6 @@ In today’s world of curated identities and social validation, Cloak Me offers 
 
 No likes. No followers. No pressure. Just authentic expression.
 
----
-
-## Live Demo
-
-**🔗 [https://cloakme.zodx.tech](https://cloakme.zodx.tech)**
-
----
 
 ## Features
 
