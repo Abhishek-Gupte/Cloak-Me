@@ -426,7 +426,7 @@ function App() {
 						</p>
 
 						<div className="flex items-center space-x-2 sm:space-x-6 text-gray-400 order-1 md:order-2" style={{ fontFamily: '"BR Firma", sans-serif' }}>
-							<p className="text-xs sm:text-sm">~ Saransh Bhat</p>
+							<p className="text-xs sm:text-sm">~ ABHISHEK GUPTE</p>
 						</div>
 					</div>
 				</div>
